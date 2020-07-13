@@ -1,5 +1,9 @@
 # apple_detection
 ## Apple detection on trees with PyTorch on Google Colab.
+## Example Images
+[](imgs/img_1.png)
+[](imgs/img_2.png)
+[](imgs/img_3.png)
 This work is based on: <br/>
 *N. Häni, P. Roy and V. Isler, "MinneApple:A Benchmark Dataset for Apple Detection and Segmentation," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 852-858, April 2020, doi: 10.1109/LRA.2020.2965061.*
 
